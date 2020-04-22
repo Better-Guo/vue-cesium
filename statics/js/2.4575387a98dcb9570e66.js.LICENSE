@@ -1,0 +1,39 @@
+/**
+ * vue-cesium - https://github.com/zouyaoji/vue-cesium
+ * Vue 2.x components for CesiumJS.
+ *
+ * @package VueCesium
+ * @author zouyaoji <370681295@qq.com>
+ * @version 2.1.0
+ * @license MIT
+ * @homepage https://zouyaoji.top/vue-cesium
+ * @copyright (c) 2018-2020, zouyaoji <370681295@qq.com>
+ */
+
+/*!
+ * author: [object Object] 
+ * @sakitam-gis/kriging v0.1.0
+ * build-time: 2019-7-6 20:41
+ * LICENSE: MIT
+ * (c) 2019-2019 https://github.com/sakitam-gis/kriging.js
+ */
+
+/*!
+* @license GNU Affero General Public License.
+* Copyright (c) 2015, 2015 Ronny Lorenz <ronny@tbi.univie.ac.at>
+* v. 1.2.0
+* https://github.com/RaumZeit/MarchingSquares.js
+*/
+
+/**
+  * vue-class-component v7.0.1
+  * (c) 2015-present Evan You
+  * @license MIT
+  */
+
+/*!
+ * merge-descriptors
+ * Copyright(c) 2014 Jonathan Ong
+ * Copyright(c) 2015 Douglas Christopher Wilson
+ * MIT Licensed
+ */
